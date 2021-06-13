@@ -1,0 +1,2 @@
+rootProject.name = "PPTLS - The Big Bang Theory"
+include ':app'
